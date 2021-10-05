@@ -15,7 +15,7 @@ public class CalcBmi {
     }
     public static void main(String[] args) {
         //身長体重
-        double h = inputDouble("身長を入力してください（単位 m）");
+        double h = inputDouble("身長を入力してください.（単位 m）");
         double w = inputDouble("体重を入力してください（単位 kg）");
         //BMI計算
         double BMI = Math.round((w / (h * h) * 10.0) / 10.0);
