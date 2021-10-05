@@ -3,7 +3,7 @@ package ex;
 import java.util.Scanner;
 
 public class CalcBmi {
-    /**
+    /**a
      * 実数の入力メソッド
      * @param message String 表示メッセージ
      * @return double 入力された値
